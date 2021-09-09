@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		double[] ar = new double[] { 85.6, 79.5, 83.1, 80.0, 78.2, 75.0 };
+		double[] ar = new double[] { 85.6, 79.5, 83.1, 80.0, 78.2, 75.0, 
+				80.0, 90.0, 70.0, 60.0 };
 		Scanner sc = new Scanner(System.in);
 		int clazz1 = sc.nextInt() - 1;
 		int clazz2 = sc.nextInt() - 1;
